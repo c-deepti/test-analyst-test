@@ -17,7 +17,7 @@ This should include any checks along the way that you deem necessary.
 Once complete, commit your tests, along with any instructions and create a Pull request for it back to this repo
 
 # Test #2 - Manual Test
-### Referring to the website https://www.harveynorman.com.au, write all the possible test cases for the above Jira story.
+### Referring to the website https://www.harveynorman.com.au, write all the possible test cases for the below Jira story.
 
     As a customer, I want to login and place an order using credit card payment method.
   
